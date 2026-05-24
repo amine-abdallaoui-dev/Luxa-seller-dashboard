@@ -1,6 +1,6 @@
 import axios from "axios";
 const api = axios.create({
-    baseURL : "https://luxa-backend-359y.vercel.app/api",
+    baseURL : "https://luxa-backend.vercel.app/api",
     withCredentials: true,
 });
 
